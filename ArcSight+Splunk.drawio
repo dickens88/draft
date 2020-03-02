@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T07:09:36.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="SApTYLT-X0ayMhZOi8uA" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T07:11:32.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="iPFC7EUfHCbm__fy2htO" version="12.7.9" type="github">
   <diagram id="bP43eLScNlwlZQDMeicJ" name="Page-1">
     <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -28,12 +28,20 @@
         <mxCell id="cLXOdxAJtxzI0Bnm1m7_-10" value="ESM" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="390" y="715" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cLXOdxAJtxzI0Bnm1m7_-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.035;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cLXOdxAJtxzI0Bnm1m7_-11" target="cLXOdxAJtxzI0Bnm1m7_-66">
+        <mxCell id="cLXOdxAJtxzI0Bnm1m7_-137" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="cLXOdxAJtxzI0Bnm1m7_-11" target="cLXOdxAJtxzI0Bnm1m7_-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="481" y="820" />
-              <mxPoint x="613" y="820" />
-              <mxPoint x="613" y="750" />
+              <mxPoint x="481" y="800" />
+              <mxPoint x="320" y="800" />
+              <mxPoint x="320" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLXOdxAJtxzI0Bnm1m7_-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="cLXOdxAJtxzI0Bnm1m7_-11" target="cLXOdxAJtxzI0Bnm1m7_-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="830" />
+              <mxPoint x="743" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -310,6 +318,15 @@
         </mxCell>
         <mxCell id="cLXOdxAJtxzI0Bnm1m7_-131" value="SmartConnector" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="600.4000000000001" y="390" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cLXOdxAJtxzI0Bnm1m7_-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="cLXOdxAJtxzI0Bnm1m7_-11" target="cLXOdxAJtxzI0Bnm1m7_-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="820" />
+              <mxPoint x="1020" y="820" />
+              <mxPoint x="1020" y="424" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
