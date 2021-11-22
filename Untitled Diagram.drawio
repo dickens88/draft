@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:24:19.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.8.0" etag="1vQDTsv4QEQgS-wpvV7a" type="github"><diagram id="Nj2AByVYtCVNHTdZXL1t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T10:02:30.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="etz99P0jkJeaUuC3_sk1" version="15.6.6" type="github">
+  <diagram id="Nj2AByVYtCVNHTdZXL1t" name="Page-1">
+    <mxGraphModel dx="1038" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-1" target="3Og_kDP2EHvTPNa3YOQe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Hacker-128.png;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="450" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#f8cecc;fontColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-4" target="3Og_kDP2EHvTPNa3YOQe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-27" value="Burpsuit篡改报文绕过前端限制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3Og_kDP2EHvTPNa3YOQe-16">
+          <mxGeometry x="-0.1056" y="-7" relative="1" as="geometry">
+            <mxPoint x="45" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=default;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="53.64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-5" value="云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="485" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-6" value="云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-7" value="CCE Console" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#82b366;fillColor=#d5e8d4;dashed=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-10" value="用户CCE集群环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="708" y="210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-12" target="3Og_kDP2EHvTPNa3YOQe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-12" target="3Og_kDP2EHvTPNa3YOQe-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-12" value="Kubernetes Master" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=default;strokeColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-13" target="3Og_kDP2EHvTPNa3YOQe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-13" value="Kubernetes Node" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="195" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;" edge="1" parent="1" source="3Og_kDP2EHvTPNa3YOQe-7" target="3Og_kDP2EHvTPNa3YOQe-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-25" value="k8s API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3Og_kDP2EHvTPNa3YOQe-17">
+          <mxGeometry x="0.0507" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-20" value="1. 黑客通过合法租户账号购买CCE集群(仅包含Master节点)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="84" y="100" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-21" value="Openstack API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-24" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;2. 利用Burpsuit篡改报文绕过Console限制挂载&lt;/span&gt;&lt;/div&gt;外部Node节点到k8s的Master节点" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Og_kDP2EHvTPNa3YOQe-26" value="&lt;div&gt;&lt;span&gt;3. 通过Node节点利用SSRF对master节点进行端口扫描，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;探测master节点及其周边网络空间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="320" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
